@@ -1,6 +1,6 @@
-# Open-System-AI
+# OpenVanguard
 
-Welcome to **Open-System-AI**, an organization dedicated to exploring the vast potential of Artificial Intelligence through innovative agents and experimental machine learning projects. Our goal is to push the boundaries of AI research and development, enabling seamless integration of intelligent systems into real-world applications.
+Welcome to **OpenVanguard**, an organization dedicated to exploring the vast potential of Artificial Intelligence through innovative agents and experimental machine learning projects. Our goal is to push the boundaries of AI research and development, enabling seamless integration of intelligent systems into real-world applications.
 
 ## Vision
 To create a hub for developing cutting-edge AI agents and experimental ML projects that advance the field of artificial intelligence and empower researchers and developers worldwide.
@@ -23,7 +23,7 @@ This organization hosts repositories that focus on:
 We welcome contributions from AI enthusiasts, researchers, and developers. Here’s how you can get started:
 
 1. **Explore the Repositories**
-   - Check out the projects hosted under Open-System-AI.
+   - Check out the projects hosted under OpenVanguard.
    - Each repository includes its own documentation and contribution guidelines.
 
 2. **Contribute to Projects**
